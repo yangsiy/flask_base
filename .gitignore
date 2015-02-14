@@ -6,3 +6,5 @@ venv/*
 *.db
 db_repository
 db_repository/*
+
+.DS_Store

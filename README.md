@@ -28,9 +28,9 @@ $ python run.py
 ```
 
 The template app will be running on
-```
+``
 http://localhost:5000
-```
+``
 
 ##License
 

@@ -6,12 +6,12 @@ A basic template for flask app development.
 
 Dependencies listed below should be installed in your environment.
 
-*virtualenv is recommended*
-
 * flask
 * sqlalchemy
 * flask-sqlalchemy
 * sqlalchemy-migrate
+
+*virtualenv is recommended*
 
 ##Usage
 
